@@ -7,18 +7,27 @@ The automation framework follows the Page Object Model (POM) design pattern to k
 The test suite performs the following actions:
 
 Navigate to the eBay homepage
+
 Search for a product
+
 Open the first product from the search results
+
 Verify the Best Seller Products section
+
 Validate the number of related products displayed
 
 Technologies Used :
 
 Java
+
 Playwright for Java
+
 TestNG
+
 Maven
+
 Page Object Model (POM)
+
 IntelliJ IDEA
 
 Test Scenarios

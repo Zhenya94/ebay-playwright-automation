@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="eBay Best Sellers Test Suite" verbose="2">
+
+    <test name="eBay Related Products - Best Sellers Test">
+        <classes>
+            <class name="com.ebay.automation.tests.BestSellerTest"/>
+        </classes>
+    </test>
+
+</suite>
